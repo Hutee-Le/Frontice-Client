@@ -19,7 +19,7 @@ import {
   saveRefreshToken,
 } from '../utils/localstorage';
 
-const TIMEOUT_REQUEST = 15000;
+// const TIMEOUT_REQUEST = 15000;
 
 interface IConditionCallBack {
   _retry: boolean;
